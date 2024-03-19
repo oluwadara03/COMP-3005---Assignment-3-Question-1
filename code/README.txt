@@ -1,3 +1,5 @@
+Explanation Video: https://youtu.be/q2CRISzb6J4
+
 Step 1: Open a terminal and pyscopg2 using the following command in your terminal: "pip install psycopg2". Psycopg is the most popular PostgreSQL database adapter for the Python programming language, and it allows you to preform queries in PostgreSQL (more specifically in pgAdmin4).
 
 Step 2: Download the code folder that contains the students.py and students.sql files. These are the only two files needed to run the program.
